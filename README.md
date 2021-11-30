@@ -7,7 +7,7 @@ This project aims to expose the unethical practices of politicians in the open f
 * Casey Daleiden
 * Austin Rettig
 
-### Assuptions
+### Assumptions
 
 ## 📋 Table of Contents
    * [Objectives](#-objectives)
