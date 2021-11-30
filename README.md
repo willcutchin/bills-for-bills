@@ -13,7 +13,8 @@ This project aims to expose the unethical practices of politicians in the open f
     * EX: Floor of ($1,001 to $15,000) = $8,000
     
 * #### Buy Quantity
-  * Stock Price at Day of Purchase / Floor of Average Range
+  * Round (Floor of Average Range / Stock Price at Day of Purchase (@Close))
+    * EX: Round (8000 / APPL(165.30)) = 49
 
 
 ## 📋 Table of Contents
