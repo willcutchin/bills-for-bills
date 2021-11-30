@@ -33,8 +33,8 @@ This project aims to expose the unethical practices of politicians in the open f
 ## 📃 Data Sets
 
 ## 📊 Visualizations
-* ### Polotician vs Institutions (In Percentage Gain)
-  * #### Poloticians
+* ### *Politician vs Institutions (In Percentage Gain)*
+  * #### Politicians
     * Top 10 Preformers (Average)
   * #### Indicies
     * Vanguard 500 (VFIAX)
@@ -49,11 +49,11 @@ This project aims to expose the unethical practices of politicians in the open f
   * #### Sketch of Visualization
   * #### Final Visualization
 * ### Politicians vs SPY (In Percentage Gain)
-  * #### Poloticians
+  * #### Politicians
     * Top 10 Preformers (Average)
   * #### SPY
     * SPY Gain for Given Year
-* ### Polotician Investment Income vs Representitive Income (Nominal)
+* ### Politician Investment Income vs Representitive Income (Nominal)
   * #### Investment Income
     * Top 10 Preformers (Average)
   * #### House/Senate Income
