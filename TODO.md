@@ -9,3 +9,45 @@
 * Data Used
 * Sketch
 * Final (Image)
+
+### Visualization 2
+* Type
+* Data Used
+* Sketch
+* Final (Image)
+
+### Visualization 3
+* Type
+* Data Used
+* Sketch
+* Final (Image)
+
+### Visualization 4
+* Type
+* Data Used
+* Sketch
+* Final (Image)
+
+### Visualization 5
+* Type
+* Data Used
+* Sketch
+* Final (Image)
+
+### Visualization 6
+* Type
+* Data Used
+* Sketch
+* Final (Image)
+
+### Visualization 7
+* Type
+* Data Used
+* Sketch
+* Final (Image)
+
+### Visualization 8
+* Type
+* Data Used
+* Sketch
+* Final (Image)
