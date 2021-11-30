@@ -25,6 +25,33 @@ This project aims to expose the unethical practices of politicians in the open f
 ## 📃 Data Sets
 
 ## 📊 Visualizations
+* ### Polotician vs Institutions (In Percentage Gain) [TODO]
+  * #### Poloticians
+    * Top 10 Preformers (Average)
+  * #### Indicies
+    * Vanguard 500 (VFIAX)
+    * Fidelity 500 (FXAIX)
+    * Schwab Total Market (SWTSX)
+  * #### Hedge Funds
+    * Bridgewater
+    * Man Group
+    * Renaissance Technologies
+    * Millennium
+    * TCI Fund
+  * #### Sketch of Visualization
+  * #### Final Visualization
+* ### Politicians vs SPY (In Percentage Gain) [TODO]
+  * #### Poloticians
+    * Top 10 Preformers (Average)
+  * #### SPY
+    * SPY Gain for Given Year
+* ### Polotician Investment Income vs Representitive Income (Nominal) [TODO]
+  * #### Investment Income
+    * Top 10 Preformers (Average)
+  * #### House/Senate Income
+    * Income from Given Year (Congress Resources)
+* ###
+
 
 ## 📰 Final Report
 
