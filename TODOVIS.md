@@ -2,6 +2,7 @@
 | Visualization Name| Visualization Type | Assigned to   | Current Status | Link to Sketch | Finished | 
 |----------------|---------------|---------------|----------------|-----------|-------------|
 | Fill | Fill | Fill  | TODO   |  [Visualization 1](#visualization-1) | <li> [ ] </li>  |
+| Fill | Fill | Fill  | TODO   |  [Visualization 1](#visualization-1) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 2](#visualization-2) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 3](#visualization-3) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 4](#visualization-4) | <li> [ ] </li>  |
@@ -12,6 +13,7 @@
 | Fill | Fill | Fill  | TODO   |  [Visualization 9](#visualization-9) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 10](#visualization-10) | <li> [ ] </li>  |
 
+#TODO Free Style
 
 ### Visualization 1
 * Type
