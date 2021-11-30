@@ -8,6 +8,11 @@ This project aims to expose the unethical practices of politicians in the open f
 * Austin Rettig
 
 ### Assumptions
+* #### Buy Quantity
+  * 
+* #### Price Averaging
+  * Average of Trade Value Range
+    * EX: Floor($1,001 to $15,000) = $8,000
 
 ## 📋 Table of Contents
    * [Objectives](#-objectives)
