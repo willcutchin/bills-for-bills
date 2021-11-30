@@ -33,7 +33,7 @@ This project aims to expose the unethical practices of politicians in the open f
 ## 📃 Data Sets
 
 ## 📊 Visualizations
-* ### Polotician vs Institutions (In Percentage Gain) [TODO]
+* ### Polotician vs Institutions (In Percentage Gain)
   * #### Poloticians
     * Top 10 Preformers (Average)
   * #### Indicies
@@ -48,12 +48,12 @@ This project aims to expose the unethical practices of politicians in the open f
     * TCI Fund
   * #### Sketch of Visualization
   * #### Final Visualization
-* ### Politicians vs SPY (In Percentage Gain) [TODO]
+* ### Politicians vs SPY (In Percentage Gain)
   * #### Poloticians
     * Top 10 Preformers (Average)
   * #### SPY
     * SPY Gain for Given Year
-* ### Polotician Investment Income vs Representitive Income (Nominal) [TODO]
+* ### Polotician Investment Income vs Representitive Income (Nominal)
   * #### Investment Income
     * Top 10 Preformers (Average)
   * #### House/Senate Income
