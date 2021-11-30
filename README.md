@@ -58,8 +58,6 @@ This project aims to expose the unethical practices of politicians in the open f
     * Top 10 Preformers (Average)
   * #### House/Senate Income
     * Income from Given Year (Congress Resources)
-* ###
-
 
 ## 📰 Final Report
 
