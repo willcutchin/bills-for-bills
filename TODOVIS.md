@@ -1,7 +1,7 @@
 # TODO Task Table
 | Visualization Name| Visualization Type | Assigned to   | Current Status | Link to Sketch | Finished | 
 |----------------|---------------|---------------|----------------|-----------|-------------|
-| Fill | Fill | Fill  | TODO   |  [Visualization 1](#visualization-1) | <li> [ ] </li>  |
+| Comparing Dow Jones, Politician account, and Hedgefound returns | Box Plots | Casey  | TODO   |  [Visualization 1](#visualization-1) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 1](#visualization-1) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 2](#visualization-2) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 3](#visualization-3) | <li> [ ] </li>  |
