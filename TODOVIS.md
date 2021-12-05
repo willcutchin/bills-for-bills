@@ -15,10 +15,18 @@
 
 ### Visualization 1
 * Name of Visualization
+  * Hedge Funds vs Politicians (Vertical Bar)
 * Comparison
+  * Hedge Funds and Politicians (Vertical Bar)
+  * Yearly Returns vs Institution (2020)
 * Type
+  * Vertical Bar
+  * INCLUDE 3 MONTH 6 MONTH 12 MONTH windows
 * Data Used
+  * https://www.bloombergquint.com/business/tiger-global-tops-hedge-fund-ranking-as-rentech-gets-booted
+  * BUY2020
 * Sketch
+  * ![vis1](https://user-images.githubusercontent.com/88694775/144730369-dce1958a-b085-468a-8c6c-1cbc73d88721.jpg)
 * Final (Image)
 
 ### Visualization 2
