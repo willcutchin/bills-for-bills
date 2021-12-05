@@ -61,56 +61,99 @@
 
 ### Visualization 4
 * Name of Visualization
+  * Nominal Returns of Top 5 Democrats (In Dollars) 
 * Comparison
+  * Name
+  * Earnings ($)
 * Type
+  * Bar with Picture
 * Data Used
+  * Buy 2020
 * Sketch
+  * ![Vis4-5](https://user-images.githubusercontent.com/88694775/144760300-54fb419f-66e3-4492-b1ad-873341a999bf.jpg)
 * Final (Image)
 
 ### Visualization 5
 * Name of Visualization
+  * Nominal Returns of Top 5 Republicans (In Dollars) 
 * Comparison
+  * Name
+  * Earnings ($)
 * Type
+  * Bar with Picture
 * Data Used
+  * Buy 2020
 * Sketch
+  * ![Vis4-5](https://user-images.githubusercontent.com/88694775/144760300-54fb419f-66e3-4492-b1ad-873341a999bf.jpg)
 * Final (Image)
 
 ### Visualization 6
 * Name of Visualization
+  * Average Nominal Earnings vs House/Senate Salary
 * Comparison
+  * Salary
+  * Average Nominal Earnings
 * Type
+  * 1D Bar
 * Data Used
+  * 2020 BUY
 * Sketch
+  * ![Vis6](https://user-images.githubusercontent.com/88694775/144760348-4ded1d9c-c879-4f46-9c3c-768bd943dce5.jpg)
 * Final (Image)
 
 ### Visualization 7
 * Name of Visualization
+  * Most Frequent Months of Trading + Stimulus Bill Dates
 * Comparison
+  * Month
+  * Trade Frequency
 * Type
+  * KDE
 * Data Used
+  * BUY202
+  * Stimulus Bill Dates
 * Sketch
+  * ![Vis7](https://user-images.githubusercontent.com/88694775/144760386-c4489c0e-65be-4521-bd5f-7bc0b37d930d.jpg)
 * Final (Image)
 
 ### Visualization 8
 * Name of Visualization
+  * Top 10 Politicians Frequency of Trading by Month
 * Comparison
+  * Politican
+  * Monthly Trading Frequency
 * Type
+  * KDE
 * Data Used
+  * BUY2020
 * Sketch
+  *  ![Vis8](https://user-images.githubusercontent.com/88694775/144760477-df51deae-2312-4e06-902f-7d0c5e6c3636.jpg)
 * Final (Image)
 
 ### Visualization 9
 * Name of Visualization
+  * Most Frequently Traded Tickers 
 * Comparison
+  * Trade Frequency
+  * Ticker Name
 * Type
+  * Tree + Table
 * Data Used
+  * BUY2020 
 * Sketch
+  * ![Vis9](https://user-images.githubusercontent.com/88694775/144760513-abcf8ea9-3df1-44ff-9f7d-742d8b4dbbbc.jpg)
 * Final (Image)
 
 ### Visualization 10
 * Name of Visualization
+  * Market Preformance by State
 * Comparison
+  * State
+  * Average Returns
 * Type
+  * Cholopleth
 * Data Used
+  * BUY2020
 * Sketch
+  * ![Vis10](https://user-images.githubusercontent.com/88694775/144760599-af2917dd-929b-43cd-ba33-8d8aef47e1e9.jpg)
 * Final (Image)
