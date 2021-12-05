@@ -14,60 +14,80 @@
 
 
 ### Visualization 1
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 2
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 3
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 4
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 5
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 6
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 7
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 8
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 9
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
 * Final (Image)
 
 ### Visualization 10
+* Name of Visualization
+* Comparison
 * Type
 * Data Used
 * Sketch
