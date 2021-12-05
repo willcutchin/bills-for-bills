@@ -31,18 +31,32 @@
 
 ### Visualization 2
 * Name of Visualization
+  * Top 10 Preforming Politicians (Yearly Meadian)
 * Comparison
+  * % Return
+  * Name of Politician 
 * Type
+  * Box Plot
 * Data Used
+  * Buy 2020 
 * Sketch
+  * ![vis2](https://user-images.githubusercontent.com/88694775/144730959-36c5afc5-ccdb-442c-9ecc-fe54d3ae3599.jpg)
 * Final (Image)
 
 ### Visualization 3
 * Name of Visualization
+  * Holding Window 3, 6, 12 Violin Plot 
 * Comparison
+  * 3 Month
+  * 6 Month
+  * 12 Month
 * Type
+  * Violin
+  * ![vis3-support](https://user-images.githubusercontent.com/88694775/144730994-9ef91802-86b1-4166-873b-d4f3854ad200.jpg)
 * Data Used
+  * Buy 2020
 * Sketch
+  * ![vis3](https://user-images.githubusercontent.com/88694775/144731006-d6c26332-e9ce-4c4e-b8e4-49e493b66ccc.jpg)
 * Final (Image)
 
 ### Visualization 4
