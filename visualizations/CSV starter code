@@ -1,0 +1,14 @@
+####PLACE CSV FILE IN SAME FOLDER AS PYTHON SCRIPT#######
+
+#columns can be replaced
+
+trades_df = pd.read_csv('politician-trading-data-BUY2020.csv', usecols=['SHARE_PRICE_3_MONTH', 'SHARE_PRICE_6_MONTH'])
+
+print(sum(trades_df['SHARE_PRICE_3_MONTH'].isna()))
+print(sum(trades_df['SHARE_PRICE_6_MONTH'].isna()))
+
+trades_df = trades_df[trades_df['SHARE_PRICE_3_MONTH'].notna()]
+trades_df = trades_df[trades_df['SHARE_PRICE_6_MONTH'].notna()]
+
+print(sum(trades_df['SHARE_PRICE_3_MONTH'].isna()))
+print(sum(trades_df['SHARE_PRICE_6_MONTH'].isna()))
