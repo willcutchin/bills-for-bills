@@ -12,7 +12,6 @@
 | Fill | Fill | Fill  | TODO   |  [Visualization 9](#visualization-9) | <li> [ ] </li>  |
 | Fill | Fill | Fill  | TODO   |  [Visualization 10](#visualization-10) | <li> [ ] </li>  |
 
-#TODO Free Style
 
 ### Visualization 1
 * Type
