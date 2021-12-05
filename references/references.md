@@ -6,7 +6,7 @@
 ## Historical Stock Pricing Data
 ### GOOGLE FINANCE (FIND LINK)]
 ## House and Senate Salaries
-### https://www.senate.gov/senators/SenateSalariesSince1789.html
+### https://www.senate.gov/senators/SenateSalariesSince1789.htm
 ### https://work.chron.com/us-house-representatives-salary-8425.html
 ## Lobbying Spending
 ### https://www.opensecrets.org/news/2021/01/lobbying-spending-nears-record-high-in-2020-amid-pandemic/
