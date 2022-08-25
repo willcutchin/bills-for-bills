@@ -1,6 +1,6 @@
 # Bills for Bills
 ### Description
-This project aims to expose the unethical practices of politicians in the open financial markets through visualization and deep analysis of their financial transactions. Politicians have been allowed to trade equities, bonds, public companies, and indices while maintaining the power to vote on legislation that may directly affect the performance of these underlying. Through the use of visualization, we will show why this should not be allowed and the obvious conflict of interest that exists.
+This project aims to expose the unethical practices of politicians in the open financial markets through visualization and deep analysis of their financial transactions. Politicians have been allowed to trade equities, bonds, public companies, and indices while maintaining the power to vote on legislation that may directly affect the performance of these underlying. Through the use of visualization, we will show the corrolations that exist between profitiability being employed as a congressman.
 
 ### Contributors
 * Will Cutchin
